@@ -12,8 +12,8 @@ spec:
   project: default
   source:
     path: rhoai-environment-chart
-    repoURL: https://github.com/alvarolop/rhoai-gitops.git
-    targetRevision: main
+    repoURL: https://github.com/alvarolop/dgpmakes.git
+    targetRevision: 2.x
   syncPolicy:
     automated:
       prune: false

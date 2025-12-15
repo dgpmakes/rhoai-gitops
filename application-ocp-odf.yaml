@@ -12,8 +12,8 @@ spec:
   project: default
   source:
     path: ocp-odf
-    repoURL: https://github.com/alvarolop/rhoai-gitops.git
-    targetRevision: main
+    repoURL: https://github.com/dgpmakes/rhoai-gitops.git
+    targetRevision: 2.x
     kustomize:
       # patches:
       #   - target:
